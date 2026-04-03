@@ -44,8 +44,3 @@ You: bye
 * Create GUI using Tkinter
 * Add voice input/output
 
----
-
-## 👤 Author
-
-Your Name
